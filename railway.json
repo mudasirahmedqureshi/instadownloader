@@ -1,5 +1,8 @@
 {
-  "build": "sh start.sh",
-  "start": "sh start.sh",
-  "language": "python"
+  "name": "insta-backend",
+  "plugins": {
+    "python": {
+      "start": "sh backend/start.sh"
+    }
+  }
 }
