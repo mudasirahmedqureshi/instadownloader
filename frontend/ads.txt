@@ -1,0 +1,6 @@
+git remote add origin https://github.com/mudasirahmedqureshi/instadownloader 
+git branch -M main 
+git push -u origin main
+
+git config --global user.name "Mudasir Ahmed"
+git config --global user.email "mudasirahme34@gmail.com"
