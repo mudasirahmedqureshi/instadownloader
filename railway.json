@@ -1,8 +1,9 @@
+
 {
   "name": "insta-backend",
   "plugins": {
     "python": {
-      "start": "sh backend/start.sh"
+      "start": "sh start.sh"
     }
   }
 }
